@@ -1,4 +1,4 @@
-# Diabetes Detector — ML + ACT-R (Teaching Demo) + Resume Bullet Point Generator
+# Diabetes Detector — ML + ACT-R + Resume Bullet Point Generator + Recipe Generator
 
 
 ## What you get

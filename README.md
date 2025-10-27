@@ -1,6 +1,5 @@
-# Diabetes Detector — ML + ACT-R (Teaching Demo)
+# Diabetes Detector — ML + ACT-R (Teaching Demo) + Resume Bullet Point Generator
 
-This project reproduces the **Diabetes Detection** idea from your slides: a side‑by‑side comparison between a **Random Forest** model and an **ACT‑R–inspired** memory recall predictor.
 
 ## What you get
 - Streamlit app (`app.py`)
